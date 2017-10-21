@@ -11,3 +11,6 @@
 8. Replace stars by arrows to reduce the number of values consumed and to increase the generality of the function defined.
 9. Some functions produce exceptions instead of values;some don't produce anything.Handle raised exceptions carefully.
 10. Real programs consist of many component.Specify the dependencies among these components using signatures and functors.
+
+
+
